@@ -1,0 +1,14 @@
+{
+    "name": "legion112/kicicko-tz",
+    "description": "A client",
+    "type": "laravel",
+    "require": {
+        "laravel/framework": "^6.6"
+    },
+    "authors": [
+        {
+            "name": "Max Ageev",
+            "email": "ageev.maks2014@gmail.com"
+        }
+    ]
+}
