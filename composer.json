@@ -9,6 +9,13 @@
         "phpunit/phpunit": "^8.4",
         "guzzlehttp/guzzle": "^6.0"
     },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Legion112\\Kickico\\ServiceProvider"
+            ]
+        }
+    },
     "autoload": {
         "psr-4": {
             "Legion112\\Kickico\\": "src/"
